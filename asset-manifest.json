@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.0fac4f3a.css",
-    "main.js": "/github.io/static/js/main.d0bddc3c.js",
-    "static/media/logo_header_white.png": "/github.io/static/media/logo_header_white.bae46d867a068c3c4d72.png",
-    "index.html": "/github.io/index.html",
-    "main.0fac4f3a.css.map": "/github.io/static/css/main.0fac4f3a.css.map",
-    "main.d0bddc3c.js.map": "/github.io/static/js/main.d0bddc3c.js.map"
+    "main.css": "/proyecto-pagina-vuelo/static/css/main.0fac4f3a.css",
+    "main.js": "/proyecto-pagina-vuelo/static/js/main.27610e12.js",
+    "static/media/logo_header_white.png": "/proyecto-pagina-vuelo/static/media/logo_header_white.bae46d867a068c3c4d72.png",
+    "index.html": "/proyecto-pagina-vuelo/index.html",
+    "main.0fac4f3a.css.map": "/proyecto-pagina-vuelo/static/css/main.0fac4f3a.css.map",
+    "main.27610e12.js.map": "/proyecto-pagina-vuelo/static/js/main.27610e12.js.map"
   },
   "entrypoints": [
     "static/css/main.0fac4f3a.css",
-    "static/js/main.d0bddc3c.js"
+    "static/js/main.27610e12.js"
   ]
 }
