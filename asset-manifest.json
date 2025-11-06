@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vuelos-colombia/github.io/static/css/main.0fac4f3a.css",
-    "main.js": "/vuelos-colombia/github.io/static/js/main.41821fc2.js",
-    "static/media/logo_header_white.png": "/vuelos-colombia/github.io/static/media/logo_header_white.bae46d867a068c3c4d72.png",
-    "index.html": "/vuelos-colombia/github.io/index.html",
-    "main.0fac4f3a.css.map": "/vuelos-colombia/github.io/static/css/main.0fac4f3a.css.map",
-    "main.41821fc2.js.map": "/vuelos-colombia/github.io/static/js/main.41821fc2.js.map"
+    "main.css": "/vuelos-colombia/static/css/main.0fac4f3a.css",
+    "main.js": "/vuelos-colombia/static/js/main.05697d10.js",
+    "static/media/logo_header_white.png": "/vuelos-colombia/static/media/logo_header_white.bae46d867a068c3c4d72.png",
+    "index.html": "/vuelos-colombia/index.html",
+    "main.0fac4f3a.css.map": "/vuelos-colombia/static/css/main.0fac4f3a.css.map",
+    "main.05697d10.js.map": "/vuelos-colombia/static/js/main.05697d10.js.map"
   },
   "entrypoints": [
     "static/css/main.0fac4f3a.css",
-    "static/js/main.41821fc2.js"
+    "static/js/main.05697d10.js"
   ]
 }
