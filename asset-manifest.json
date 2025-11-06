@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alejandra-bolanos-ldg/github.io/static/css/main.0fac4f3a.css",
+    "main.js": "/alejandra-bolanos-ldg/github.io/static/js/main.5ee43824.js",
+    "static/media/logo_header_white.png": "/alejandra-bolanos-ldg/github.io/static/media/logo_header_white.bae46d867a068c3c4d72.png",
+    "index.html": "/alejandra-bolanos-ldg/github.io/index.html",
+    "main.0fac4f3a.css.map": "/alejandra-bolanos-ldg/github.io/static/css/main.0fac4f3a.css.map",
+    "main.5ee43824.js.map": "/alejandra-bolanos-ldg/github.io/static/js/main.5ee43824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fac4f3a.css",
+    "static/js/main.5ee43824.js"
+  ]
+}
